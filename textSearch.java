@@ -1,21 +1,21 @@
 /*
- * Hussein Al Noori, han951108@gmail.com
- * Datum 2020-10-17 (YYYY-MM-DD)
+ * -------------------------------
+ * -- 2020-10-18 (YYYY-MM-DD)
  *
- * Lösning till inlämningsuppgift 1 del 2.1
+ * --
  *
- * Skapa en klassmetod som räknar hur många gånger ett visst tecken finns i en sträng.
- * Om man t.ex. har variabeln test av typen String och vill veta hur många gånger bokstaven ’t’ förekommer i texten kan man skriva
+ * --
+ * --
  *
- * String test = "Lite test text.";
- * int antal = antalTecken(test, 't');
+ * --
+ * --
  *
- * Skriv ett testprogram och testkör din klassmetod med olika strängar.
+ * --
  */
 
 import javax.swing.*;
 
-// Uppgift 1 Del 2
+// --
 public class textSearch
 {
     static String textContents;
